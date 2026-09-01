@@ -1,6 +1,6 @@
 # AirPods 3D Product Animation — Blender
 
-![AirPods Product Render](Airpod_Render.png)
+<img src="Airpod_Render.png" alt="AirPods Product Render" width="500">
 
 A 3D product visualization and animation created in Blender, featuring realistic glossy materials, studio lighting, product-focused composition, and smooth camera animation.
 
