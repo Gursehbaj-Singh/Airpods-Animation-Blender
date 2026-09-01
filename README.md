@@ -2,7 +2,7 @@ AirPods 3D Product Animation — Blender Project
 
 AirPods Product Render
 
-A fully 3D-animated product visualization of AirPods created in Blender, featuring realistic materials, studio lighting, and smooth camera animation for commercial-style presentation.
+A fully 3D-animated product visualization of AirPods created in Blender, featuring realistic glossy materials, studio lighting, and smooth camera animation for commercial-style presentation.
 
 Skills Demonstrated
 
