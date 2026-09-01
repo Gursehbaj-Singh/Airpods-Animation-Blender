@@ -1,36 +1,63 @@
-AirPods 3D Product Animation — Blender Project
+# AirPods 3D Product Animation — Blender
 
-AirPods Product Render
+![AirPods Product Render](Airpod_Render.png)
 
-A fully 3D-animated product visualization of AirPods created in Blender, featuring realistic glossy materials, studio lighting, and smooth camera animation for commercial-style presentation.
+A 3D product visualization and animation created in Blender, featuring realistic glossy materials, studio lighting, product-focused composition, and smooth camera animation.
 
-Skills Demonstrated
+## Overview
 
-3D Modeling
-Product Visualization
-Material Creation (Glossy Plastic)
-Lighting Setup (Studio-Style)
-Camera Animation
-Rendering (Cycles)
-Composition
-Project
+This project is a commercial-style 3D product animation focused on presenting AirPods with a clean and premium visual style.
 
-A premium product animation showcasing AirPods from multiple angles. Designed to highlight the shape, texture, and overall design with a clean, professional commercial look. Suitable for advertisements, portfolio presentations, or social media content.
+The scene was designed to showcase product modeling, reflective materials, lighting, camera movement, and rendering techniques commonly used in product visualization.
 
-Files
+## Skills Demonstrated
 
-airpod_animation.blend — Blender source project
-Airpod_Render.png — Final render image
-README.md — Project documentation
-Software
+- 3D modeling
+- Product visualization
+- Glossy material creation
+- PBR materials
+- Studio lighting
+- Camera animation
+- Camera composition
+- Cycles rendering
+- Product-focused scene design
+- Post-processing
 
-Blender — 3D modeling, animation, lighting, and rendering
-Cycles — Render engine for realistic output
-Author
+## Project Highlights
 
-Gursehbaj Singh
+- Detailed 3D AirPods model
+- Realistic glossy plastic materials
+- Controlled studio lighting setup
+- Smooth camera animation
+- Clean commercial-style composition
+- Realistic reflections and highlights
+- Product-focused presentation
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `airpod_animation.blend` | Blender source project |
+| `Airpod_Render.png` | Final product render |
+| `README.md` | Project documentation |
+
+## Software
+
+- Blender
+- Cycles
+
+## Purpose
+
+This project was created as part of my 3D modeling and product visualization portfolio.
+
+It focuses on developing practical skills in modeling, materials, lighting, animation, composition, and realistic rendering.
+
+## Author
+
+**Gursehbaj Singh**
+
 3D Modeling & Blender Artist
 
-License
+## License
 
-This project is for portfolio and educational purposes only.
+This project is intended for portfolio and educational purposes.
