@@ -1,28 +1,36 @@
-AirPods 3D Product Animation
+AirPods 3D Product Animation — Blender Project
 
-This is a 3D product visualization of AirPods created in Blender. The animation demonstrates realistic lighting, material setup, and camera motion for commercial-style product presentation.
+AirPods Product Render
 
-Features
+A fully 3D-animated product visualization of AirPods created in Blender, featuring realistic materials, studio lighting, and smooth camera animation for commercial-style presentation.
 
-3D Model: AirPods modeled with attention to shape and detail.
-Materials: Glossy plastic finish with realistic reflections.
-Lighting: Soft studio-style lighting to highlight the product.
-Animation: Smooth camera movement showing multiple angles.
-Render Engine: Cycles for realistic output.
-Preview
+Skills Demonstrated
 
+3D Modeling
+Product Visualization
+Material Creation (Glossy Plastic)
+Lighting Setup (Studio-Style)
+Camera Animation
+Rendering (Cycles)
+Composition
+Project
 
+A premium product animation showcasing AirPods from multiple angles. Designed to highlight the shape, texture, and overall design with a clean, professional commercial look. Suitable for advertisements, portfolio presentations, or social media content.
 
-Tools Used
+Files
 
-Blender – 3D modeling, lighting, animation, and rendering.
-Cycles – Render engine for realistic output.
+airpod_animation.blend — Blender source project
+Airpod_Render.png — Final render image
+README.md — Project documentation
+Software
 
-Project Status :
+Blender — 3D modeling, animation, lighting, and rendering
+Cycles — Render engine for realistic output
+Author
 
-Completed.
+Gursehbaj Singh
+3D Modeling & Blender Artist
 
 License
 
 This project is for portfolio and educational purposes only.
-
